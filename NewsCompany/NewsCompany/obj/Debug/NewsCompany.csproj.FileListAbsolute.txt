@@ -1,0 +1,6 @@
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\bin\Debug\NewsCompany.dll
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\bin\Debug\NewsCompany.pdb
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\obj\Debug\NewsCompany.csprojAssemblyReference.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\obj\Debug\NewsCompany.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\obj\Debug\NewsCompany.dll
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\NewsCompany\NewsCompany\obj\Debug\NewsCompany.pdb

@@ -1,0 +1,6 @@
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\bin\Debug\Canvas.dll
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\bin\Debug\Canvas.pdb
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\obj\Debug\Canvas.dll
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Canvas\obj\Debug\Canvas.pdb

@@ -1,0 +1,10 @@
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\bin\Debug\Index.exe.config
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\bin\Debug\Index.exe
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\bin\Debug\Index.pdb
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\bin\Debug\Canvas.dll
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\bin\Debug\Canvas.pdb
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\obj\Debug\Client.csproj.CopyComplete
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\obj\Debug\Index.exe
+C:\Users\shaul\Desktop\DEVELOPMENT\PROJECTS\course-execises\Canvas\CanvasEx\Index\obj\Debug\Index.pdb
