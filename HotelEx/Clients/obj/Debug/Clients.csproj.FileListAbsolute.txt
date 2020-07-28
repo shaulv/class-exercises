@@ -1,0 +1,6 @@
+C:\Users\shaul\Downloads\HotelEx\Clients\bin\Debug\Clients.dll
+C:\Users\shaul\Downloads\HotelEx\Clients\bin\Debug\Clients.pdb
+C:\Users\shaul\Downloads\HotelEx\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\shaul\Downloads\HotelEx\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Downloads\HotelEx\Clients\obj\Debug\Clients.dll
+C:\Users\shaul\Downloads\HotelEx\Clients\obj\Debug\Clients.pdb
