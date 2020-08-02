@@ -1,0 +1,7 @@
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\bin\Debug\SuperHeroesEx.exe.config
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\bin\Debug\SuperHeroesEx.exe
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\bin\Debug\SuperHeroesEx.pdb
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\obj\Debug\SuperHeroesEx.csprojAssemblyReference.cache
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\obj\Debug\SuperHeroesEx.csproj.CoreCompileInputs.cache
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\obj\Debug\SuperHeroesEx.exe
+C:\Users\shaul\OneDrive\Desktop\DEVELOPMENT\PROJECTS\class-exercises\New folder\SuperHeroesEx\SuperHeroesEx\obj\Debug\SuperHeroesEx.pdb
