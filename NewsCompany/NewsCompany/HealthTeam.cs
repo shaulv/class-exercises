@@ -19,7 +19,9 @@ namespace NewsCompany
         internal override void CreateStory()
         {
             story = new Story();
-        }
+            story.title = "Article Title";
+            story.body = "Article Body...";
+        }    
         internal override void AddStyle()
         {
             story.visualStyle = "Health style";
