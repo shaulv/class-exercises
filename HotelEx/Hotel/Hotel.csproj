@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0385AA49-BF08-4F82-A046-0A0C6697569D}</ProjectGuid>
+    <ProjectGuid>{7F9F6FEC-57F3-421D-9C24-5FE9479F90E6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Hotel</RootNamespace>
@@ -42,16 +42,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Reception.cs" />
-    <Compile Include="RoomService.cs" />
     <Compile Include="Suite.cs" />
-    <Compile Include="Room.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="FamilyRoom.cs" />
     <Compile Include="RoomForTwo.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="FamilyRoom.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoomService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Clients\Clients.csproj">
-      <Project>{7add6729-064a-4048-98c6-b119046b7906}</Project>
+      <Project>{0756ae64-6103-4bc0-8ae4-ba461d74f271}</Project>
       <Name>Clients</Name>
     </ProjectReference>
   </ItemGroup>
