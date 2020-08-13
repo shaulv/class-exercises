@@ -11,7 +11,7 @@ namespace NewsCompany
         #region Methods
         internal static int CalcNumberOfChars(Newspaper newsPaper)
         {
-            return newsPaper.Length;
+            return newsPaper.title.Length + newsPaper.body.Length;
         }
         #endregion
     }
