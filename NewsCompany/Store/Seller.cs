@@ -16,7 +16,7 @@ namespace Store
         #region Methods
         public void SellNewspaper(Newspaper newspaper)
         {
-            moneyEarned += 20;
+            moneyEarned += (int)newspaper.price;
         }
         public override string ToString() => $"Money Earned: {moneyEarned}";
         #endregion
