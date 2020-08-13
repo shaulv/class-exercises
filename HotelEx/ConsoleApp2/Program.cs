@@ -14,7 +14,7 @@ namespace ConsoleApp2
         {
             Reception.Rooms[0] = new FamilyRoom(1, 0);
             Reception.Rooms[1] = new RoomForTwo(2, 0);
-            Reception.Rooms[1] = new Suite(3, 0);
+            Reception.Rooms[2] = new Suite(3, 0);
             Guest shaul = new Guest(1, "shaul");
 
 
